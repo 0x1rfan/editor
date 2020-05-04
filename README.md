@@ -1,2 +1,0 @@
-# editor
-Full Lua Console.
